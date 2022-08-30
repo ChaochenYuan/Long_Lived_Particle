@@ -8,7 +8,7 @@ main41 is the main file to generate the process
 
 first  
 ``
-make main41
+make main41  
 ``
 and then  
 ``
