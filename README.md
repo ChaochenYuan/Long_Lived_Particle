@@ -3,8 +3,8 @@ producing long lived particles at one experiment and detecting at another experi
 
 main41 is the main file to generate the process
 
-****pythia version 8.245
-****HepMC version 2.06.11
+****pythia version 8.245****  
+****HepMC version 2.06.11**** 
 
 first  
 ``
