@@ -7,10 +7,10 @@ pythia version 8.245
 HepMC version 2.06.11
 
 first 
-‘’‘
+\\\
 make main41
-’‘’
+\\\
 and then
-‘’‘
+\\\
 ./main41
-’‘’
+\\\
